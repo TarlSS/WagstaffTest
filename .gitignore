@@ -1,0 +1,36 @@
+/WagstaffTest/Library
+/WagstaffTest/Library/**
+/WagstaffTest/Temp
+/WagstaffTest/Temp/**
+
+
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+bin
+test-results
+
+/WagstaffTest/Assets/Dialogue System/Examples
+/WagstaffTest/Assets/UnityVS
+/WagstaffTest/Assets/uIntelliSense
+/WagstaffTest/Builds
+/WagstaffTest/Downloads
+/WagstaffTest/obj
+/Packages
+
+/Builds
+/Downloads
+/Experiments
+/WagstaffTest FMOD/.cache
+/WagstaffTest FMOD/.recycle
+/WagstaffTest/Assets/Resources/Movies
+/WagstaffTest/Assets/codeandweb.com/Example
+/WagstaffTest/Assets/codeandweb.com/Example.meta
+/WagstaffTest/obj
